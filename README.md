@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-👩‍💻 Trabalho atualmente na Hifi
+👩‍💻 Trabalho atualmente na [Hisofi](https://www.hisofi.com/pt-BR/)
 
 💬 Me pergunte sobre **a vida** e te responderei rapidamente, não necessáriamente corretamente.
 
