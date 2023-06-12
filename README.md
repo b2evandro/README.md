@@ -5,7 +5,7 @@
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
 
-👩‍💻 Trabalho atualmente na SGI Sistemas - Sólidus Smart
+👩‍💻 Trabalho atualmente na Hifi
 
 💬 Me pergunte sobre **a vida** e te responderei rapidamente, não necessáriamente corretamente.
 
