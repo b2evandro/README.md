@@ -10,7 +10,7 @@ Eu sou uma pessoa desenvolvedora full-stack...
 💬 Me pergunte sobre **a vida** e te responderei rapidamente, não necessáriamente corretamente.
 
 ⚡️ Fatos engraçados: 
-- Sou daltônico e trabalho com front, por isso sempre preciso de QA.
+- Sou daltônico e trabalho com front
 
 
 ## 🛠 Habilidades
