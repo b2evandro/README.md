@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
+Eu sou um desenvolvedor full-stack...
 
 👩‍💻 Trabalho atualmente na Hisofi
 
